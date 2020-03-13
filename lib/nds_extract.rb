@@ -57,4 +57,5 @@ def total_gross(source)
   total_total
 end
 
-return total_gross
+return total_gross(source)
+
